@@ -3,9 +3,12 @@
 You need implement a web-application based on attached templates.
 Basically you need to implement web aduio player which will work with audio streams.
 
-[Templates for task]()
+References:
 
-Legend:
+- radio stream link: `http://{host}:{port}/radio`
+- swagger link: `http://{host}:{port}/swagger`
+- socket link: `http://{host}:{port}`
+- templates: [Templates for task]()
 
 Tasks:
 1. You need to implement a state manager, which will store:
