@@ -33,4 +33,4 @@ When user inputs some text in the field, list must be immediately filtered with 
 ![](http://dl3.joxi.net/drive/2019/07/15/0001/2211/108707/07/ce75239e72.jpg)
 
 ## Recommendation and requirement
-All of the tasks must be implemented with using of any JS reactive library. RxJS is recomended for usage, but it isn't required library.
+All of the tasks must be implemented using any JS reactive library. RxJS is recommended reactive library but you are free to pick any.
