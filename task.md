@@ -8,7 +8,7 @@ References:
 - radio stream link: `http://{host}:{port}/radio`
 - swagger link: `http://{host}:{port}/swagger`
 - socket link: `http://{host}:{port}`
-- templates: [Templates for task]()
+- templates: [Templates for task](https://github.com/vladb95/da.radio-html)
 
 Tasks:
 1. You need to implement a state manager, which will store:
